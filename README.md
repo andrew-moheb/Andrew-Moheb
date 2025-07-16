@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">Platform Courses</h2>
+<h2 align="left">💻 Preferred Course Platforms</h2>
 
 ###
 
@@ -83,9 +83,5 @@
 ###
 
 <h4 align="left">Udacity</h4>
-
-###
-
-<img src="https://raw.githubusercontent.com/andrew-moheb/andrew-moheb/output/snake.svg" alt="Snake animation" />
 
 ###
