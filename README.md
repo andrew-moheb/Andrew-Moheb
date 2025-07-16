@@ -87,6 +87,6 @@
 
 ###
 
-<p align="left">craftedBy Andrew Moheb<br>📧 Email: andrewmoheb500@gmail.com<br>📱 Phone: +20-1274452249<br>🎖️ Nickname: TheDOMinator <br>🌍 Based in Egypt</p>
+<p align="left">Crafted with vision and styled by <h3>Andrew Moheb</h3> <br>📧 Email: andrewmoheb500@gmail.com<br>📱 Phone: +20-1274452249<br>🎖️ Nickname: TheDOMinator <br>🌍 Based in Egypt</p>
 
 ###
