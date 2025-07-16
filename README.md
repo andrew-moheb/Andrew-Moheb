@@ -54,15 +54,15 @@
 
 ###
 
-<h4 align="left">UI/UX Designer at Anyaa, Saudi Arabia 								July 2022- June 2024</h4>
+<h4 align="left">UI/UX Designer at Tkana, Saudi Arabia 								July 2022- June 2024</h4>
 
 ###
 
-<p align="left">Designed and developed comprehensive digital assets including landing pages, B2B & B2C platform interfaces for both desktop and mobile (responsive design), email templates, and branded ebooks for Anyaa's ecosystem</p>
+<p align="left">Designed and developed comprehensive digital assets including landing pages, B2B & B2C platform interfaces for both desktop and mobile (responsive design), email templates, and branded ebooks for Tkana's ecosystem</p>
 
 ###
 
-<h4 align="left">Software Engineer – Front-End (React) at Anyaa, Saudi Arabia 								May 2024 - January 2025</h4>
+<h4 align="left">Software Engineer – Front-End (React) at Tkana, Saudi Arabia 								May 2024 - January 2025</h4>
 
 ###
 
