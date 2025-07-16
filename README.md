@@ -74,7 +74,7 @@
 
 ###
 
-<h4 align="left">Udemy</h4>
+<h4 align="left">Udacity</h4>
 
 ###
 
@@ -82,6 +82,6 @@
 
 ###
 
-<h4 align="left">Udacity</h4>
+<h4 align="left">Udemy</h4>
 
 ###
