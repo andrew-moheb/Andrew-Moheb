@@ -74,15 +74,15 @@
 
 ###
 
-<h5 align="left">Udemy</h5>
+<h4 align="left">Udemy</h4>
 
 ###
 
-<h5 align="left">Coursera</h5>
+<h4 align="left">Coursera</h4>
 
 ###
 
-<h5 align="left">Udacity</h5>
+<h4 align="left">Udacity</h4>
 
 ###
 
