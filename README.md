@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="left">Udacity</h3>
+<h3 align="left">Udacity <a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank">View My Certificate</a> </h3>
 
 ###
 
