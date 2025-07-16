@@ -74,14 +74,14 @@
 
 ###
 
-<h4 align="left">Udacity</h4>
+<h3 align="left">Udacity</h3>
 
 ###
 
-<h4 align="left">Coursera</h4>
+<h3 align="left">Coursera</h3>
 
 ###
 
-<h4 align="left">Udemy</h4>
+<h3 align="left">Udemy</h3>
 
 ###
