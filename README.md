@@ -72,17 +72,11 @@
 
 <h2 align="left">💻 Preferred Course Platforms</h2>
 
-###
-
 <h3 align="left">Udacity</h3> 
 <p><a href="https://drive.google.com/file/d/1l5Qn2D9Yd60oJ73figLrb5eXrVTLLPyo/view?usp=sharing" target="_blank">View My Certificate</a> </p>
 
-###
-
 <h3 align="left">Coursera</h3>
-<p><a href="https://drive.google.com/file/d/1t2BqwkkDAcL0Cq8ygx9jsQlEeHs68VjD/view?usp=sharing" target="_blank">View My Certificate</a> </p>
-###
+<p><a href="https://drive.google.com/file/d/1t2BqwkkDAcL0Cq8ygx9jsQlEeHs68VjD/view?usp=sharing" target="_blank">View My Certificate</a> </p> 
 
 <h3 align="left">Udemy</h3>
 <p><a href="https://drive.google.com/file/d/1UCu-n8q7Y4DnZsBC4nL8XWboaC6KgG-q/view?usp=sharing" target="_blank">View My Certificate</a> </p>
-###
